@@ -1,4 +1,4 @@
-## Hi,I'm Jithender rao 
+## Hi,I'm Jithender rao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I'm a programmer on beta testing!
 ### Languages and Frameworks I Know and Study :
 <a href="#">
