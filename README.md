@@ -3,6 +3,9 @@
 <br>
 <br>
 
+### GitHub Stats
+![Jithender github stats](https://github-readme-stats.vercel.app/api?username=jithender04&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+<br>
 ### Languages and Frameworks I Know and Study :
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -18,7 +21,6 @@
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 
-![Jithender github stats](https://github-readme-stats.vercel.app/api?username=jithender04&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithender04&layout=compact)
 
