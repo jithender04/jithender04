@@ -20,9 +20,8 @@
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithender04&layout=compact)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithender04&theme=great-gatsby&layout=compact)
 
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/jithender04/jithender04?color=#6EBF20" alt="Visitors badge" />
