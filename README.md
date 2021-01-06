@@ -17,3 +17,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithender04&layout=compact)
 
+[![Visits Badge](https://badges.pufler.dev/visits/jithender04/jithender04)](https://badges.pufler.dev)
