@@ -12,7 +12,7 @@
 <br>
 
 ### I'm a programmer on beta testing!
-
+I've always been a person that if I didn't know how to make something 🔎 I'd find out how to do it, so programming has been a perfect fit for me.
 <br>
 
 ### GitHub Stats
