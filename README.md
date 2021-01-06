@@ -12,12 +12,17 @@
 ![ReactJs](https://img.shields.io/badge/ReactJs%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?&style=flat&logo=material-ui&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=flat)
-
+![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
+![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 
 ![Jithender github stats](https://github-readme-stats.vercel.app/api?username=jithender04&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithender04&layout=compact)
 
-[![Visits Badge](https://badges.pufler.dev/visits/jithender04/jithender04)](https://badges.pufler.dev)
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/jithender04/jithender04?color=#6EBF20" alt="Visitors badge" />
+ </a>
+
