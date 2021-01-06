@@ -1,14 +1,16 @@
 # Hi,I'm Jithender rao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[<img align="left" alt="Jithender rao | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="Jithender rao | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="jithenderjupally | Gmail" width="22px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="Jithender rao | Leetcode" width="22px" src="./leetcode.svg" />][Leetcode]
+[<img align="left" alt="Jithender rao | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="Jithender rao | Twitter" width="30px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="jithenderjupally | Gmail" width="30px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="Jithender rao | Leetcode" width="30px" src="./leetcode.svg" />][Leetcode]
+[<img align="left" alt="Jithender rao | Codechef" width="30px" src="./codechef.svg" />][codechef]
 
 [linkedin]:https://www.linkedin.com/in/jithenderrao/
 [twitter]: https://twitter.com/JiThEnDeR_04/
 [gmail]: mailto:jithenderjupally@gmail.com
 [Leetcode]:https://leetcode.com/Jupally04/
+[codechef]:https://www.codechef.com/users/jithender04/
 
 <br>
 <br>
