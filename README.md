@@ -43,3 +43,4 @@ I've always been a person that if I didn't know how to make something 🔎 I'd f
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/jithender04/jithender04?color=#6EBF20" alt="Visitors badge" />
  </a>
+
