@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactJs%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material%20ui%20-%230081CB.svg?&style=flat&logo=material-ui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?&style=flat&logo=material-ui&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=flat"/>
 
 
