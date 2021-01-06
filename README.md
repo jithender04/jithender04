@@ -1,8 +1,13 @@
 ## Hi,I'm Jithender rao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[<img align="left" alt="Jithender rao | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="Jithender rao | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="jithenderjupally | Gmail" width="22px" src="./gmail.svg" />][gmail]
+
+<br>
+<br>
 ### I'm a programmer on beta testing!
 <br>
-<br>
-
 ### GitHub Stats
 ![Jithender github stats](https://github-readme-stats.vercel.app/api?username=jithender04&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 <br>
@@ -25,4 +30,6 @@
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/jithender04/jithender04?color=#6EBF20" alt="Visitors badge" />
  </a>
-
+[linkedin]:https://www.linkedin.com/in/jithenderrao/
+[twitter]: https://twitter.com/JiThEnDeR_04/
+[gmail]: mailto:jithenderjupally@gmail.com
