@@ -44,6 +44,8 @@ I've always been a person that if I didn't know how to make something 🔎 I'd f
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithender04&theme=great-gatsby&layout=compact)
 
 <a href="https://badges.pufler.dev">
