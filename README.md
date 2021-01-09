@@ -24,7 +24,7 @@ I've always been a person that if I didn't know how to make something 🔎 I'd f
 
 <br>
 
-### Languages and Frameworks I Know and Study :
+### 🛠 Here are the few things I've picked up along my learning journey
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -36,10 +36,13 @@ I've always been a person that if I didn't know how to make something 🔎 I'd f
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?&style=flat&logo=material-ui&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ![C](https://img.shields.io/badge/C%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithender04&theme=great-gatsby&layout=compact)
 
