@@ -19,6 +19,10 @@
 I've always been a person that if I didn't know how to make something 🔎 I'd find out how to do it, so programming has been a perfect fit for me.
 <br>
 
+### **If you want to see some highlights of my production so far, check:**
+- [Proshop](https://proshop-by-jupally.herokuapp.com/)
+- [Covid-tracker](covid19-tracker-f436a.firebaseapp.com)
+
 ### GitHub Stats
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Jithender github stats](https://github-readme-stats.vercel.app/api?username=jithender04&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
