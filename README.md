@@ -53,7 +53,6 @@ I've always been a person that if I didn't know how to make something 🔎 I'd f
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithender04&theme=great-gatsby&layout=compact)
 
-<a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/jithender04/jithender04?color=#6EBF20" alt="Visitors badge" />
- </a>
-
+<a href="#">
+ <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=jithender04&repo=jithender04&countColor=#6EBF20" alt="Visitors badge" />
+</a>
