@@ -22,6 +22,7 @@ I've always been a person that if I didn't know how to make something 🔎 I'd f
 ### **If you want to see some highlights of my production so far, check:**
 - [Proshop](https://proshop-by-jupally.herokuapp.com/)
 - [Covid-tracker](covid19-tracker-f436a.firebaseapp.com)
+- [Pixel-Art](https://pixel-art-b64ab.web.app/)
 - [Digi-Converter](https://github.com/jithender04/Digi-Converter)
 
 ### GitHub Stats
