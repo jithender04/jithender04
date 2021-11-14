@@ -7,6 +7,7 @@
 [<img align="left" alt="Jithender rao | Codechef" width="30px" src="./codechef.svg" />][codechef]
 
 <a href="https://app.daily.dev/jithenderrao"><img src="https://api.daily.dev/devcards/89ea6e01dfbf46159743ba4c51548ec4.png?r=5lm" align="right" width="250" alt="Jithender Rao's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jithender04/jithender04/blob/master/devcard.svg" width="250" alt="Jithender Rao's Dev Card"/></a>
 
 [linkedin]:https://www.linkedin.com/in/jithenderrao/
 [twitter]: https://twitter.com/JiThEnDeR_04/
